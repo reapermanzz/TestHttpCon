@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TestHttpCon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestHttpCon_jar</output-path>
+    <root id="archive" name="TestHttpCon.jar">
+      <element id="module-output" name="TestHttpCon" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/httpclient-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/TestCodeBox.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/httpcore-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
