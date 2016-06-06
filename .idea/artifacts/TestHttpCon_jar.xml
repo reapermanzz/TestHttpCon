@@ -6,7 +6,10 @@
       <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/httpclient-4.4.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/TestCodeBox.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/httpcore-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/jinput.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/slick.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/.idea/libraries/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="libraries1" />
     </root>
   </artifact>
 </component>
